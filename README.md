@@ -71,7 +71,7 @@ As primeiras linhas da solução passo-a-passo podem ser vistas abaixo:
 
 O gerador de Sudoku pode ser usado tanto simplesmente para gerar novos jogos de Sudoku como para preenchê-los pelo terminal e checar a validade da solução.
 
-<p align="center"><img src="media/tela4_gerador_sudoku.PNG" alt="pseudocode_algorithm" style="width:55%;"/></p>
+<p align="center"><img src="media/tela4_gerador_sudoku.PNG" alt="pseudocode_algorithm" style="width:63%;"/></p>
 
 Para preencher as células, é preciso inserir os dados no formato:
 
