@@ -16,7 +16,7 @@ O grafo é modelado através de listas de adjacências. Os índices de cada cél
 
 Para o problema da coloração desse grafo, foi utilizado algoritmo de M coloração com backtracking. O algoritmo de M coloração permite que seja utilizado M = 9, o número de dígitos possíveis no Sudoku, para checar uma solução que utilize exatamente M cores.
 
-O código do algoritmo se baseia principalmente no código e pseudocódigo feito por <a href="https://www.tutorialspoint.com/M-Coloring-Problem" target="_blank">Karthikeya Boyini (2018)</a>, tendo <a href="https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/" target="_blank">este artigo</a> também contribuído no desenvolvimento do programa.
+O código do algoritmo se baseia principalmente no código e pseudocódigo feito por <a href="https://www.tutorialspoint.com/M-Coloring-Problem">Karthikeya Boyini (2018)</a>, tendo <a href="https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/">este artigo</a> também contribuído no desenvolvimento do programa.
 
 Em resumo, é feito um laço recursivo que checa cada vértice do grafo. Se o vértice já é dado preenchido, pula-se para o próximo. Deste, é escolhido um dígito que ainda não foi utilizado por nenhum de seus vizinhos. O vértice recebe então esse dígito e se passa para o próximo nó. Quando se terminam os nós, foi encontrada uma solução e o backtracking ocorre. Então, o nó tem a cor que utilizava apagada e substituída por uma outra, passando-se para a coloração do próximo nó com a nova configuração. Ao fim, é possível obter todas as soluções possíveis.
 
