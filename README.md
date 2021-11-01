@@ -31,6 +31,7 @@ O Sudoku é um jogo formado em cima de uma matriz 9x9 com as seguintes regras:
   <li>Os blocos são grupos de células de tamanho 9, abarcando todas as células a cada 3 linhas e 3 colunas;</li>
   <li>Cada célula deve ser preenchida com números entre 1 e 9;</li>
   <li>Não é possível a repetição de números por linha, coluna ou bloco;</li>
+ <li>Cada linha, célula e bloco devem ter células que vão de 1 a 9;</li>
   <li>Cada Sudoku tem apenas 1 solução possível.</li>
 </ul> 
 
