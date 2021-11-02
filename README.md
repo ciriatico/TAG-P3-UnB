@@ -46,8 +46,7 @@ python tag_p3_202033202.py
 
 O programa utiliza uma interface com usuário para apresentar Sudokus, receber Sudokus e checar Sudokus preenchidos pelo usuário. A interface com o usuário é feita através do terminal, com a navegação por teclas.
 
-Existem 4 funcionalidades principais: um solucionador de um Sudoku aleatório mostrando o 
--passo da aplicação do algoritmo; um gerador de Sudoku que permite que o usuário preencha cada célula e cheque se a solução está correta, bem como obter a solução do Sudoku gerado; um solucionador de Sudoku, que resolve um Sudoku dado pelo usuário; e um checador de Sudoku, que checa a validade de uma solução dada pelo usuário.
+Existem 4 funcionalidades principais: um solucionador de um Sudoku aleatório mostrando o passo-a-passo da aplicação do algoritmo; um gerador de Sudoku que permite que o usuário preencha cada célula e cheque se a solução está correta, bem como obter a solução do Sudoku gerado; um solucionador de Sudoku, que resolve um Sudoku dado pelo usuário; e um checador de Sudoku, que checa a validade de uma solução dada pelo usuário.
 
 Essas funcionalidades podem ser selecionadas no menu principal do programa:
 
