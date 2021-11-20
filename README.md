@@ -1,4 +1,4 @@
-# P3 (TAG - 2021.1 - 202033202): Sudoku em Grafos
+# P3 (TAG - 2021.1): Sudoku em Grafos
 Projeto 3 de Teoria e Aplicação de Grafos, disciplina ofertada na Universidade de Brasília (UnB) no semestre 2021.1.
 Desenvolvido por Gabriel Mendes Ciriatico Guimarães, de matrícula 202033202.
 
